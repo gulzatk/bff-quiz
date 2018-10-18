@@ -1,0 +1,10 @@
+#brieLarsson, #bradPitt, #jonSnow, #galGadot {
+  display:none;
+}
+img {
+  height: 25%;
+  width: 25%;
+}
+.btn {
+  display: block;
+}
